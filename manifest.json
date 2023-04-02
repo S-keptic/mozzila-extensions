@@ -6,6 +6,13 @@
     "background":{
         "service_worker":"background.js"
     },
+"action":{
+    "default_popup":"index.html"
+
+},
+
+
+
     "icons": {
         "16": "owo.jpg",
         "32": "owo.jpg",
