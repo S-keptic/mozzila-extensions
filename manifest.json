@@ -1,3 +1,16 @@
 {
-    
+    "name": "colour-picker",
+    "description":"A colour picker",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background":{
+        "service_worker":"background.js"
+    },
+    "icons": {
+        "16": "owo.jpg",
+        "32": "owo.jpg",
+        "48": "owo.jpg"
+
+    }
+
 }
